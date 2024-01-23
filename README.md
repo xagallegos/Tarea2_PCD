@@ -1,4 +1,16 @@
 # Tarea 2. PCD
+
+Este repositorio fue creado como parte de una tarea para la materia de Proyecto de Ciencia de Datos. Consta de 2 ramas:
+
+- `main`
+
+Unicamente con un archivo `README.md`
+
+- `feature-1`
+
+Con un archivo de Jupyter Notebook resumiendo una investigación sobre MLOps.
+
+## Instrucciones
 Crear un nuevo repositorio en su cuenta de `GitHub` llamado `Tarea2_PCD`. En dicho proyecto añadir un notebook de jupyter que debe contener lo siguiente:
 
 1. Un resumen de al menos uno de los siguientes artículos donde se resalta la importancia del despliegue en producción de proyectos de ML:
